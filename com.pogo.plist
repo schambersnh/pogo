@@ -1,0 +1,14 @@
+CTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.pogo.plist</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/Stephen/pokemongo/pgoapi/pogo.py -a google -u burrow2169@gmail.com -p iopenattheclose -l "290 Quarry St, Quincy MA"</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>300</integer>
+</dict>
+
+
